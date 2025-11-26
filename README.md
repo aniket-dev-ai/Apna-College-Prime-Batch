@@ -1,4 +1,4 @@
-# 🎓 Apna College “Prime (AI/ML Batch)” – Learning Repository
+# 🎓 Apna College “Prime (AI/ML Batch)” – Full Journey
 
 > This repository holds **all my lecture notes, homework, mini-projects, code files, and major assignments** for the Prime (AI/ML) batch.  
 > I’ll upload everything I work on — so this becomes my live portfolio and learning log as I build out AI/ML & Data Science skills.
@@ -10,7 +10,7 @@
 - **Course Name:** Prime (Complete AI/ML Batch)  
 - **Institute:** Apna College  
 - **Start Date:** 15 November 2025  
-- **Duration:** ~4+ months core learning + extended access (≈ 15 months)  
+- **Duration:** ~4+ months core learning + extended access (≈ 5-6 months)  
 - **Language:** Hinglish (mix of Hindi + English)  
 - **Certification:** Yes, upon successful completion.
 
