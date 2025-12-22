@@ -24,13 +24,14 @@
       "first": "Neha",
       "last": "Singh",
       "age": "24",
-      "rating": "3.5 ",
+      "rating": "3 ",
       "feedback": "Decent but can improve"
     },
     {
       "first": "Aman",
-      "last": "Gupta", 
-        "rating":"5",
+      "last": "Gupta",
+      "age": "25",
+      "rating": "4",
       "feedback": "Good and practical"
     }
   ]

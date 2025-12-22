@@ -2,36 +2,35 @@
     {
       "first": "Aniket",
       "last": "Srivastava",
-      "age": 21,
-      "rating": 5,
+      "age": "21",
+      "rating": "5",
       "feedback": "Very good experience"
     },
     {
       "first": "Rahul",
       "last": "Sharma",
-      "age": 23,
-      "rating": 4,
+      "age": "23",
+      "rating": "four",
       "feedback": "Pretty useful overall"
     },
     {
       "first": "Priya",
       "last": "Verma",
-      "age": 22,
-      "rating": 5,
+      "age": "22",
+      "rating": "five",
       "feedback": "Loved the clarity"
     },
     {
       "first": "Neha",
       "last": "Singh",
-      "age": 24,
-      "rating": 3,
+      "age": "24",
+      "rating": "3.5 ",
       "feedback": "Decent but can improve"
     },
     {
       "first": "Aman",
-      "last": "Gupta",
-      "age": 25,
-      "rating": 4,
+      "last": "Gupta", 
+        "rating":"5",
       "feedback": "Good and practical"
     }
   ]
