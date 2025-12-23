@@ -1,36 +1,8 @@
 [
-    {
-      "first": "Aniket",
-      "last": "Srivastava",
-      "age": "21",
-      "rating": "5",
-      "feedback": "Very good experience"
-    },
-    {
-      "first": "Rahul",
-      "last": "Sharma",
-      "age": "23",
-      "rating": "four",
-      "feedback": "Pretty useful overall"
-    },
-    {
-      "first": "Priya",
-      "last": "Verma",
-      "age": "22",
-      "rating": "five",
-      "feedback": "Loved the clarity"
-    },
-    {
-      "first": "Neha",
-      "last": "Singh",
-      "age": "24",
-      "rating": "3.5 ",
-      "feedback": "Decent but can improve"
-    },
-    {
-      "first": "Aman",
-      "last": "Gupta", 
-        "rating":"5",
-      "feedback": "Good and practical"
-    }
-  ]
+  {"name": "Alice", "rating": "5 ", "feedback": "Great product!!", "age": "25"},
+  {"name": "Bob", "rating": "four", "feedback": "ok but late Delivery", "age": "30"},
+  {"name": " Charlie", "rating": "two", "feedback": "BAD EXPERIENCE "},
+  {"name": "Diana", "feedback": "Loved it!", "rating": "5", "age": "28"},
+  {"name": "Eve", "rating": "3.5", "feedback": "Average - could be better", "age": "20"},
+  {"name": "Alice", "rating": "5", "feedback": "Great product again!", "age": "25"}
+]
